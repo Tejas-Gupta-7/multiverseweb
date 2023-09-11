@@ -1,11 +1,12 @@
 [![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:30px; margin-top:rage1:0px;"/>, I'm Tejas Gupta</h1>
+<h1 align="center">Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:30px;"/>, I'm Tejas Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in)
 <h1>💫 About Me:</h1>
+
 - 🎓 Pursuing my Bachelor's in Computer Science and Business Systems from <a href="http://bvucoepune.edu.in/">Bharati Vidyapeeth (DU) College of Engineering</a>.
 
 - 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>.
