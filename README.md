@@ -37,8 +37,14 @@
 # 🚀 Tech Stack:
 <h3 align="left">⚡ Languages</h3>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 
-![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+
 
 <h3 align="left">🧩 Tools & Platforms</h3>
 
@@ -73,7 +79,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img align="middle" alt="Coding" height="50px" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+<img align="middle" alt="Coding" height="50px" width="90vw" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 <hr/>
 
 
