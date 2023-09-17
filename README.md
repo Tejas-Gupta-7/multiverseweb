@@ -35,6 +35,7 @@
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 </p>
 <hr/>
+
 # 🚀 Tech Stack:
 <h3 align="left">⚡ Languages</h3>
 
@@ -62,13 +63,14 @@
 ![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
 
-<h3 align="left">🗠 Database</h3>
+<h3 align="left">📒 Database</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
 <h3 align="left">💻 OS</h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <hr/>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
