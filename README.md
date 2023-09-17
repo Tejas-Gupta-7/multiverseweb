@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in)
+<hr/>
 <h1>💫 About Me:</h1>
 
 - 🎓 Pursuing my Bachelor's in Computer Science and Business Systems from <a href="http://bvucoepune.edu.in/">Bharati Vidyapeeth (DU) College of Engineering</a>.
@@ -20,7 +21,7 @@
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
 
 - 🪐 Fun fact **I'm a space enthusiast.**
-
+<hr/>
 <h1>🌐 Socials:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tejas-gupta-363887251"  /></a>
@@ -33,7 +34,7 @@
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 </p>
-
+<hr/>
 # 🚀 Tech Stack:
 <h3 align="left">⚡ Languages</h3>
 
@@ -67,7 +68,7 @@
 
 <h3 align="left">💻 OS</h3>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <hr/>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
