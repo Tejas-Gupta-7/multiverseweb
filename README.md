@@ -77,7 +77,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
