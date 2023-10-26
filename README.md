@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>.
 
-- 🌱 I’m currently learning **Dart for Flutter**.
+- 🌱 I’m currently learning **Python for Data Analysis**.
 
 - 👨‍💻 All of my projects are available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
 
-- 💬 Ask me about **Web Development, UI/UX Designing**.
+- 💬 Ask me about **Web Development, Python, UI/UX Designing**.
 
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
 
@@ -45,7 +45,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+<!--![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
 
 
 
