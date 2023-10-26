@@ -34,6 +34,7 @@
   <br/>
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+  <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank"><img align="center" src="https://img.shields.io/badge/%2F%3E%20Dcoder-black" alt="dcoder" /></a>
 </p>
 <hr/>
 
