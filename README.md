@@ -35,6 +35,9 @@
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank"><img align="center" src="https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge" alt="dcoder" /></a>
+  <a href="https://leetcode.com/iamtejasgupta26/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge" alt="leetcode" /></a>
+    <a href="https://www.hackerrank.com/profile/iamtejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-%2304de66?style=for-the-badge" alt="hackerrank" /></a>
+
 </p>
 <hr/>
 
@@ -58,7 +61,7 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!--![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)-->
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
