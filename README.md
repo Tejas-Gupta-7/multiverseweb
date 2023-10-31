@@ -79,14 +79,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=false)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-### 🔰 Top Contributed Repo
+## 🔰 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 <hr/>
