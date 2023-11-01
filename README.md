@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) 
-![](https://img.shields.io/badge/LOC-10,043-blue?style=for-the-badge&label=LOC&color=9&icon=1&pretty=false)
+![](https://img.shields.io/badge/LOC-10,043-blue)
 <hr/>
 <h1>💫 About Me:</h1>
 
