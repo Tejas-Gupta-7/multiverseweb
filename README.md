@@ -38,7 +38,7 @@
   <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank"><img align="center" src="https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge" alt="dcoder" /></a>
   <a href="https://leetcode.com/iamtejasgupta26/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge" alt="leetcode" /></a>
   
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+  <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
   	![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 </p>
