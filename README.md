@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
-[![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) ![](https://img.shields.io/badge/LOC-10,043-blue?style=for-the-badge&icon=2&color=cyan&border-radius=10)
+[![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) ![](https://img.shields.io/badge/LOC-10,043-blue?style=for-the-badge&icon=2&color=cyan&height=20px)
 <hr/>
 <h1>💫 About Me:</h1>
 
