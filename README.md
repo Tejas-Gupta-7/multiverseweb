@@ -3,11 +3,12 @@
 <h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:30px;" height="30"/> I'm Tejas Gupta</h1>
 <h3 align="center">A technical enthusiast from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
-
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) 
 
 ![](https://img.shields.io/badge/</>&nbsp;LOC-10.2k-teal)
+<img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
+
+
 <hr/>
 <h1>💫 About Me:</h1>
 
