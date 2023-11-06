@@ -29,8 +29,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tejas-gupta-363887251"  /></a>
 <a href="https://instagram.com/tejasgupta._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tejasgupta._" /></a>
-<a href="https://github.com/multiverseweb" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-  <br/>
 <a href="https://pinterest.com/iamtejasgupta26" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="pinterest"/></a> 
 <a href="https://codepen.io/Tejas-Gupta-7" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/></a>
   <br/>
@@ -40,7 +38,7 @@
 
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
   	![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
+<a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github")</a>
 </p>
 <hr/>
 
