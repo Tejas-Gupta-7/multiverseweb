@@ -37,7 +37,6 @@
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank"><img align="center" src="https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge" alt="dcoder" /></a>
-  
   <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
   	![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
