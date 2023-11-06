@@ -36,7 +36,7 @@
 <a href="https://t.me/tejasgupta26" target="blank">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a>
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
-<a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) >/a>
+<a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 </p>
 <hr/>
