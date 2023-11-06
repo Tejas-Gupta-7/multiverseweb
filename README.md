@@ -26,7 +26,7 @@
 - 🪐 Fun fact **I'm a space enthusiast.**
 <hr/>
 <h1>🌐 Socials:</h1>
-<p align="center">
+<div align="center">
   
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
@@ -38,7 +38,7 @@
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a>
 <a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://codepen.io/Tejas-Gupta-7" target="blank">![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
-</p>
+</div>
 <hr/>
 
 # 🚀 Tech Stack:
