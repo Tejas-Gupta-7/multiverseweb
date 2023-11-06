@@ -38,6 +38,7 @@
 
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
   	![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
 <a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github")</a>
 </p>
 <hr/>
