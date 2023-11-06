@@ -68,9 +68,9 @@
 ![Jupyter](https://camo.githubusercontent.com/0180004eb998b82d5f0fd6e2efcd2d2458f68adfe81f8b615d3fd4238a3c4bab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+<!--![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) -->
 ![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
+<!--![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
 
 <h3 align="left">📒 Database</h3>
 
