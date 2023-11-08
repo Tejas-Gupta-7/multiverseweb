@@ -96,7 +96,7 @@
 <hr/>
 </div>
 
-<div align="center">
+<div align="center" style= "display: block;">
 
 ```
 Tejas
