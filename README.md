@@ -99,7 +99,7 @@
 <div align="center" style= "display: block;">
 
 `
-Tejas
+Tejas°
 `
 
 </div>
