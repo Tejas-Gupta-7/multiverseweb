@@ -16,9 +16,9 @@
 - 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>.
 
 - 🌱 I’m currently learning **Python for Data Analysis**.
-<!--
+
 - 👨‍💻 All of my projects are available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
--->
+
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
 
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
@@ -99,7 +99,7 @@
 <div align="center" style= "display: block;">
 
 `
-Tejas
+Tejas°
 `
 
 </div>
