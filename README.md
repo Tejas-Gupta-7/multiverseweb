@@ -58,8 +58,8 @@
 <h3 align="left">🧩 Tools & Platforms</h3>
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![Jupyter](https://camo.githubusercontent.com/0180004eb998b82d5f0fd6e2efcd2d2458f68adfe81f8b615d3fd4238a3c4bab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <a href="https://replit.com/@Tejas7Gupta">![Replit](https://img.shields.io/badge/Replit-0e1726?style=for-the-badge&logo=Replit&logoColor=f7640b)</a>
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
