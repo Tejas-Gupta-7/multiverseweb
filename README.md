@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=A Tech%20enthusiast%20from%20India.;With 3+%2B%20years%20of%20coding%20experience.&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=30" />
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) 
-![](https://img.shields.io/badge/</>&nbsp;LOC-16k-teal)
+![](https://img.shields.io/badge/</>&nbsp;LOC-20k-teal)
 <img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 
