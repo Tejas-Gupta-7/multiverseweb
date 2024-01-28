@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Python for Data Analysis**.
 
-- 👨‍💻 All of my projects are available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
+- 👨‍💻 All of my work is available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
 
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
 
