@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
 
-- 🪐 Fun fact **I'm a space enthusiast.**
+- 🪐 Fun fact: **I'm a space enthusiast!**
 <hr/>
 <h1>🌐 Socials:</h1>
   
