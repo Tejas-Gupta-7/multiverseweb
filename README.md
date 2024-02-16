@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/multiverseweb">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=radical&width="30%" alt="Tejas' GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&width="30%" alt="Tejas' GitHub Contribution"/>
 
 </p> 
 
