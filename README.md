@@ -93,7 +93,7 @@
   <a href="https://github.com/multiverseweb">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="30%" alt="Tejas' GitHub Contribution"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="30%")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="100%")
 ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
