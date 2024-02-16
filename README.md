@@ -90,9 +90,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
 <p align="center">
