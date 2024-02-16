@@ -94,6 +94,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+
+<p align="center">
+
+<p align="center">
+  <a href="https://github.com/multiverseweb">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=radical&width="30%" alt="Tejas' GitHub Contribution"/>
+
+  <a href="https://github.com/multiverseweb">
+    <img src="https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=dark&combine_all_yearly_contributions=true" alt = " Tejas' Github contributions"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=radical&border=7F3FBF&background=0D1117" alt="Tejas' GitHub streak"/>
+  </a>
+
+</p> 
+
+
 ## 🔰 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
