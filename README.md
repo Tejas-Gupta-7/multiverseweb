@@ -99,17 +99,17 @@
 
 <p align="center">
   <a href="https://github.com/multiverseweb">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&width="30%" alt="Tejas' GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="30%" alt="Tejas' GitHub Contribution"/>
 
 </p> 
 
 
 ## 🔰 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact&hide_border=true))
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4)
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 <hr/>
