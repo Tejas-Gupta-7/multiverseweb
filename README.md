@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`.
+- 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`, Pune, India.
 - 🔭 I’m currently building <a href="https://multiverseweb.github.io/multiverse/">`Multiverse`</a>.
 - 🌱 I’m currently learning **Python for Data Analysis**.
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
