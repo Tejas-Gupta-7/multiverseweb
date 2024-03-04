@@ -17,7 +17,7 @@
 - 🔭 I’m currently building <a href="https://multiverseweb.github.io/multiverse/">`Multiverse`</a>.
 - 🌱 I’m currently learning **Python for Data Analysis**.
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
-- 🪐 Fun fact: **I'm a space enthusiast!**
+- 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
 - 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas/).
 - 📫 How to reach me -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas-links/).
 <hr/>
