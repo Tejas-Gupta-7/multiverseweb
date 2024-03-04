@@ -91,6 +91,9 @@
 ## 🔰 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="100%")
+
+<hr/>
+
 ## 📊 GitHub Stats
 
   <a href="https://github.com/multiverseweb">
