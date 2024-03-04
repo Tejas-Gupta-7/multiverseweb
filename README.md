@@ -1,10 +1,11 @@
 [![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)](https://rishavchanda.io)
+
+[![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) 
+<!--![](https://img.shields.io/badge/</>&nbsp;LOC-27.8k-teal)-->
 <div style="font-family:verdana;">
 <h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:30px;" height="30"/> I'm Tejas Gupta</h1>
   <img src="https://readme-typing-svg.demolab.com/?lines=A Tech%20enthusiast%20from%20India.;With 4+%2B%20years%20of%20coding%20experience.&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=30" />
 
-[![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in) 
-![](https://img.shields.io/badge/</>&nbsp;LOC-27.8k-teal)
 <img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 
@@ -12,19 +13,20 @@
 
 # 💫 About Me:
 
-- 🎓 Pursuing my Bachelor's in Computer Science and Business Systems from <a href="http://bvucoepune.edu.in/">Bharati Vidyapeeth (DU) College of Engineering</a>.
+- 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`.
 
-- 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>.
+- 🔭 I’m currently building <a href="https://multiverseweb.github.io/multiverse/">`Multiverse`</a>.
 
 - 🌱 I’m currently learning **Python for Data Analysis**.
 
-- 👨‍💻 All of my work is available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
-
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
+
+- 🪐 Fun fact: **I'm a space enthusiast!**
 
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
 
-- 🪐 Fun fact: **I'm a space enthusiast!**
+- 👨‍💻 All of my work is available at [`Tejas Gupta`](https://multiverseweb.github.io/tejas/).
+
 <hr/>
 <h1>🌐 Socials:</h1>
   
@@ -101,7 +103,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
-## 🔰 Top Contributed Repo
+### 🔰 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact&hide_border=true)
 
 
@@ -109,7 +112,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4)
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
-<hr/>
+
+<img align="middle" alt="Coding" height="30px" align="center" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 </div>
 
 <div align="center" style= "display: block;">
