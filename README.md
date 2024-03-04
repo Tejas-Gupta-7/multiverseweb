@@ -11,7 +11,7 @@
 
 <hr/>
 
-# 💫 About Me
+## 💫 About Me
 
 - 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`.
 - 🔭 I’m currently building <a href="https://multiverseweb.github.io/multiverse/">`Multiverse`</a>.
@@ -21,7 +21,7 @@
 - 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas/).
 - 📫 How to reach me -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas-links/).
 <hr/>
-<!--<h1>🌐 Socials:</h1> 
+<!--##🌐 Socials:
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -36,7 +36,7 @@
 <a href="https://t.me/tejasgupta26" target="blank">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> -->
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 ### ⚡ Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,7 +53,7 @@
 <!--![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
 <hr/>
 
-# 🧩 Tools & Platforms
+## 🧩 Tools & Platforms
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -79,7 +79,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### 💻 OS
+### 🖥 OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
@@ -87,18 +87,20 @@
 <br/>
 <hr/>
 
-# 📊 GitHub Stats
+## 🔰 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="100%")
+## 📊 GitHub Stats
 
   <a href="https://github.com/multiverseweb">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="30%" alt="Tejas' GitHub Contribution"/>
 <br/>
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="100%")
 ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
-### 🔰 Top Contributed Repo
+### 💻 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact&hide_border=true)
 
