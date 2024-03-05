@@ -83,7 +83,6 @@
 ### 🖥 OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-
 <img align="right" alt="Coding" height="30px" width="36px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 <br/>
 <hr/>
