@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning **Python for Data Analysis**.
 - 💬 Ask me about **Web Development, Python, UI/UX Designing**.
 - 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
-- 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas/).
-- 📫 How to reach me -> [`Tejas Gupta`](https://multiverseweb.github.io/tejas-links/).
+- 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://tejasgupta.netlify.app/).
+- 📫 How to reach me -> [`Tejas Gupta`](https://tejas-links.netlify.app/).
 <hr/>
 <!--##🌐 Socials:
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
