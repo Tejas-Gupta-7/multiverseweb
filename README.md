@@ -24,7 +24,7 @@
 
 ## 🌐 Socials:
 
-<a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a>
