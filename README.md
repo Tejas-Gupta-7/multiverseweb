@@ -95,7 +95,7 @@
 
 
 <!-- GitHub Analytics -->
-<h3>🔰 GitHub Analytics</h3>
+<h3>:octocat: GitHub Analytics</h3>
 
   <div align="center">
     <!-- Graph of Commits -->
@@ -112,7 +112,7 @@
 <img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true"><br/></br>
   </div>
 
-### Top Repositories
+### 🔰 Top Repositories
    <p align="center">
     <!-- Dataverse -->
     <a href="https://github.com/multiverseweb/Dataverse"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dataverse">
