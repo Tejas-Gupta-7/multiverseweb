@@ -109,19 +109,19 @@
     <!-- Graph of Commits -->
     <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=github_dark" alt="Graph of Commits" />
     <!-- Streak-->
-<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=false"><br/></br>
+<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true"><br/></br>
   </div>
 
 ### 🔰 Top Repositories
    <p align="center">
     <!-- Dataverse -->
-    <a href="https://github.com/multiverseweb/Dataverse"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dataverse">
+    <a href="https://github.com/multiverseweb/Dataverse"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Dataverse">
     </a>
     <!-- House -->
-    <a href="https://github.com/multiverseweb/house"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="House">
+    <a href="https://github.com/multiverseweb/house"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="House">
     </a>
     <!-- Portfolio -->
-    <a href="https://github.com/multiverseweb/tejas"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=tejas&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
+    <a href="https://github.com/multiverseweb/tejas"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=tejas&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Portfolio">
     </a>
   </p>     
 
