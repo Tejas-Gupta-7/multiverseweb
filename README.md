@@ -98,11 +98,11 @@
 <h3>:octocat: GitHub Analytics</h3>
 
   <div align="center">
+    <!-- GitHub stats -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=github_dark" alt="GitHub Stats" />  
     <!-- Repositories per language -->
     <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=github_dark" alt="Top Languages" />
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=github_dark" alt="GitHub Stats" />
-      <!-- Repositories per language -->
+    <!-- Repositories per language -->
     <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=multiverseweb&theme=github_dark" alt="Most Commit Languages" />
     <!-- Histogram of Commits -->
     <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=multiverseweb&theme=github_dark" alt="Histogram of Commits" />
