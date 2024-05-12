@@ -11,7 +11,7 @@
 
 <hr/>
 
-## 💫 About Me
+### 💫 About Me
 
 - 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`, Pune, India.
 - 🌱 I’m currently learning **Python for Data Analysis**.
@@ -19,15 +19,17 @@
 - 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
 - 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://tejasgupta.netlify.app/).
 - 📫 How to reach me -> [`Tejas Gupta`](https://tejas-links.netlify.app/).
+
 <hr/>
 
-## 🌐 Socials:
+<!--
+### 🌐 Socials
 
 <a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a>
-<!--<a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
+<a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
 <a href="https://codepen.io/Tejas-Gupta-7" target="blank">![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 <a href="https://www.threads.net/@tejasgupta._">![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)</a>
@@ -36,7 +38,8 @@
 <a href="https://t.me/tejasgupta26" target="blank">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> -->
 
-## 🚀 Tech Stack
+<details> 
+ <summary><H3>🚀 Tech Stack</H3></summary><br>
 
 ### ⚡ Languages
 
@@ -87,32 +90,44 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <img align="right" alt="Coding" height="30px" width="36px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 <br/>
+</details>
 <hr/>
 
-## 🔰 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="100%")
+<!-- GitHub Analytics -->
+<h3>🔰 GitHub Analytics</h3>
 
-<hr/>
+  <div align="center">
+    <!-- Graph of Commits -->
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=github_dark" alt="Graph of Commits" />
+    <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=github_dark" alt="Top Languages" />
+    <!-- GitHub stats -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=github_dark" alt="GitHub Stats" />
+      <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=multiverseweb&theme=github_dark" alt="Most Commit Languages" />
+    <!-- Histogram of Commits -->
+    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=multiverseweb&theme=github_dark" alt="Histogram of Commits" />
+    <!-- Streak-->
+<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true"><br/></br>
+  </div>
 
-## 📊 GitHub Stats
-
-  <a href="https://github.com/multiverseweb">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=tokyonight&layout=compact&hide_border=true&width="30%" alt="Tejas' GitHub Contribution"/>
-<br/>
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-
-
-### 💻 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=multiverseweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact&hide_border=true)
+### Top Repositories
+   <p align="center">
+    <!-- Dataverse -->
+    <a href="https://github.com/multiverseweb/Dataverse"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dataverse">
+    </a>
+    <!-- House -->
+    <a href="https://github.com/multiverseweb/house"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="House">
+    </a>
+    <!-- Portfolio -->
+    <a href="https://github.com/multiverseweb/tejas"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=tejas&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
+    </a>
+  </p>     
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=tokyonight&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=github_dark&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4">
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
