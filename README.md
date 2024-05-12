@@ -109,7 +109,7 @@
     <!-- Graph of Commits -->
     <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=github_dark" alt="Graph of Commits" />
     <!-- Streak-->
-<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true"><br/></br>
+<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=false"><br/></br>
   </div>
 
 ### 🔰 Top Repositories
